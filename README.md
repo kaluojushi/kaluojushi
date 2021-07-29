@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Carlo, a postgraduate student at Zhejiang University
 - 👀 I’m interested in C, Java and JavaScript
-- 🌱 I’m currently learning frontend Development
+- 🌱 I’m currently learning Frontend Development
 - 📫 How to reach me: ma.zijian@qq.com
